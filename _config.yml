@@ -1,0 +1,14 @@
+layout_spectrum: 0.5341202
+typography_spectrum: 0.1566971
+color:
+  saturation: 0.3673507
+  lightness: 0.1530952
+  brandStrength: 0.433991
+  rhythmicContrast: 0.101717
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: SalehLzeik
